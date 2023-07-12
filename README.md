@@ -20,19 +20,8 @@
     <button onclick="verificaParola()">Accesează</button>
 
     <div id="continut" style="display: none;">
-        <h2>Intrebare:</h2>
-        <p>Vrei să mergem într-o vacanță împreună?</p>
-
-        <h3>Variante de răspuns:</h3>
-        <ul>
-            <li>Nup, sincer îmi pare tare rău :( </li>
-            <li>Hmm, nu știu ce să zic</li>
-            <li>Nu am timp, dar as vrea</li>
-            <li>Ma mai gandesc</li>
-            <li>Poate alatadata</li>
-            <li>Da, dar trb sa vb si eu cu parintii</li>
-            <li>YES</li>
-        </ul>
+        <h2>Acceseaza urmatorul LINK, te rog :)</h2>
+        <p>https://docs.google.com/forms/d/e/1FAIpQLSdthvpQbEprWZ3iQ3euHddUU6gjko-03djuptSa8-hsSbtlww/viewform?usp=sf_link</p>
     </div>
 </body>
 </html>
