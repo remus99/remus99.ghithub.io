@@ -25,9 +25,12 @@
 
         <h3>Variante de răspuns:</h3>
         <ul>
-            <li>Nup, îmi pare tare rău</li>
+            <li>Nup, sincer îmi pare tare rău :( </li>
             <li>Hmm, nu știu ce să zic</li>
-            <li>Nu am timp</li>
+            <li>Nu am timp, dar as vrea</li>
+            <li>Ma mai gandesc</li>
+            <li>Poate alatadata</li>
+            <li>Da, dar trb sa vb si eu cu parintii</li>
             <li>YES</li>
         </ul>
     </div>
