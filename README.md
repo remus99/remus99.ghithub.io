@@ -1,5 +1,3 @@
-theme:leap day
-<!DOCTYPE html>
 <html>
 <head>
     <title>Intrebare pentru tine</title>
