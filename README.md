@@ -55,7 +55,7 @@
 
     <div id="continut" style="display: none;">
         <h2>Accesează următorul LINK într-un browser web, te rog :)</h2>
-        <p>https://docs.google.com/forms/d/e/1FAIpQLSdthvpQbEprWZ3iQ3euHddUU6gjko-03djuptSa8-hsSbtlww/viewform?usp=sf_link</p>
+        <p>https://docs.google.com/forms/d/e/1FAIpQLSdsiiXgSDLJdWQah9ieHwJnWZIPix1OVjAiAD8MXbcP6iLW8A/viewform?usp=sf_link</p>
     </div>
 </body>
 </html>
