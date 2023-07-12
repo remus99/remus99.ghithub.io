@@ -20,7 +20,7 @@
     <button onclick="verificaParola()">Accesează</button>
 
     <div id="continut" style="display: none;">
-        <h2>Acceseaza urmatorul LINK, te rog :)</h2>
+        <h2>Accesează următorul LINK într-un browser web, te rog :)</h2>
         <p>https://docs.google.com/forms/d/e/1FAIpQLSdthvpQbEprWZ3iQ3euHddUU6gjko-03djuptSa8-hsSbtlww/viewform?usp=sf_link</p>
     </div>
 </body>
