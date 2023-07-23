@@ -54,7 +54,7 @@
     <button onclick="verificaParola()">Accesează</button>
 
     <div id="continut" style="display: none;">
-        <h2>Accesează următorul LINK într-un browser web, te rog :)</h2>
+        <h2>Accesează următorul LINK, te rog :)</h2>
         <p>https://docs.google.com/forms/d/e/1FAIpQLSdsiiXgSDLJdWQah9ieHwJnWZIPix1OVjAiAD8MXbcP6iLW8A/viewform?usp=sf_link</p>
     </div>
 </body>
